@@ -36,11 +36,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-## <img src="gifs/stat.gif" width="35"><b> Stats </b>
-![](https://github-readme-stats.vercel.app/api?username=nguyenducduc2110&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenducduc2110&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nguyenducduc2110&&theme=tokyonight)
-![Leetcode Stats](https://leetcard.jacoblin.cool/nguyenducduc2110?theme=dark)
 
 ## <img src="gifs/handshake.gif" width ="80"><b> Let's Connect!</b>
 <p align="left">
